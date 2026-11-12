@@ -1,4 +1,4 @@
-# Changer of Banners (Banner-Changer)
+# Changer of Banners (Banner-Changer) - Source Files
 
 ## Prerequisites
 * Python 3.x installed
